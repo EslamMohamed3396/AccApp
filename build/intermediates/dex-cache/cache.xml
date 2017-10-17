@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eslam\.android\build-cache\fb5370de7224f29a2cef4bc8748429f1d03b12d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f1627df493c18a82ebfeb40ca9fe7a9c151d3fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eslam\.android\build-cache\09b0076f4b06de71f3add4e57342c4f28b4c812a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_219759104722b20093c8ac78a7c7ff6d801cec17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d84b74086c3b0f8074e65df856f2b8f05be171e">
+        <dex dex="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4e0547418aa96fade5ecab3fa62ea71b21c0ad5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_94fc53f5e4a4447c9ce927b686d25034ba8a520d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eslam\.android\build-cache\2b199ff83d268656cc2d44c9787f9d1166365d7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_722070f4e8b5b611d84b3829d56d3d129a8d73e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eslam\.android\build-cache\ba7ceeb7b437228cd2018c1516075c289bd5b917\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf3e3b4e870585311bb11a6d7118b35f715b71e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eslam\.android\build-cache\8312b0a9d581626f48cd0a503b0dbe4c06500e89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Eslam\AndroidStudioProjects\AccApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6eb007136924e6b3f64b8580fc37b7f5f14f492b\classes.dex" />
+    </item>
+
+</items>
